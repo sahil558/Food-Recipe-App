@@ -1,0 +1,36 @@
+/* .form-control{
+    width: 85%;
+}
+
+.search-bar-withicon{
+    position: relative;
+}
+.btn-btn-outline-dark-ms-2{
+    width: 30px;
+}
+.btn{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    right: 0%;
+    top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.search{
+
+    width:30px;
+    height:35px;
+}
+.logout{
+    
+    width: 80px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    height:40px;
+    background-color: white;
+    color:black;
+
+}
